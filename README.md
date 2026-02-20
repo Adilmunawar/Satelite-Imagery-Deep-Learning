@@ -1,12 +1,8 @@
 <div align="center">
-  <p>
-    <a href="https://www.satellite-image-deep-learning.com/">
-        <img src="images/logo.png" width="700">
-    </a>
-</p>
-
-# 👉 [satellite-image-deep-learning.com](https://www.satellite-image-deep-learning.com/) 👈
-
+  <img src="images/logo.png" width="400" alt="Satellite Imagery Deep Learning Logo">
+  <h1>Satellite Imagery Deep Learning</h1>
+  <p><strong>A comprehensive repository of deep learning architectures, models, and algorithms suited for Earth observation, classification, segmentation, and object detection.</strong></p>
+  <br>
 </div>
 
 ## Introduction
@@ -2906,7 +2902,7 @@ Autoencoders are a type of neural network that aim to simplify the representatio
 
 - [Mxnet repository for generating embeddings on satellite images](https://github.com/fisch92/Metric-embeddings-for-satellite-image-classification) -> Includes sampling of images, mining algorithms, different architectures, error functions, measures for evaluation.
 
-- [CLIP-rsicd](https://github.com/arampacha/CLIP-rsicd) -> fine tuning CLIP on the [RSICD](https://github.com/201528014227051/RSICD_optimal) image captioning dataset, to enable querying large catalogues in natural language using 🤗
+- [CLIP-rsicd](https://github.com/arampacha/CLIP-rsicd) -> fine tuning CLIP on the [RSICD](https://github.com/201528014227051/RSICD_optimal) image captioning dataset, to enable querying large catalogues in natural language using 
 
 - [GRN-SNDL](https://github.com/jiankang1991/GRN-SNDL) -> model the relations between samples (or scenes) by making use of a graph structure which is fed into network learning
 
@@ -3091,7 +3087,7 @@ Image Captioning is the task of automatically generating a textual description o
 
 - [remote-sensing-image-caption](https://github.com/TalentBoy2333/remote-sensing-image-caption) -> image classification and image caption by PyTorch
 
-- [CLIP-rsicd](https://github.com/arampacha/CLIP-rsicd) -> fine tuning CLIP on the [RSICD](https://github.com/201528014227051/RSICD_optimal) image captioning dataset, to enable querying large catalogues in natural language using 🤗. Also read [Why and How to Fine-tune CLIP](https://dienhoa.github.io/dhblog/posts/finetune_clip.html)
+- [CLIP-rsicd](https://github.com/arampacha/CLIP-rsicd) -> fine tuning CLIP on the [RSICD](https://github.com/201528014227051/RSICD_optimal) image captioning dataset, to enable querying large catalogues in natural language using . Also read [Why and How to Fine-tune CLIP](https://dienhoa.github.io/dhblog/posts/finetune_clip.html)
 
 - [Multispectral Image Caption Unification Using Diffusion and Cycle GAN Models](https://github.com/kursatkomurcu/Multispectral-Caption-Image-Unification-via-Diffusion-and-CycleGAN)
 
